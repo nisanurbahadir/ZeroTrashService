@@ -1,0 +1,10 @@
+.vs/
+bin/
+obj/
+
+*.user
+*.suo
+
+Properties/PublishProfiles/
+
+appsettings.Development.json
